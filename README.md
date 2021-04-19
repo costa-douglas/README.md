@@ -1,5 +1,5 @@
 # README.md
-## Hey! Eu sou o Douglas Costa <img align="center" height="60" width="80">
+## Hey! Eu sou o Douglas Costa <img align="center">
 <a href="https://github.com/costa-douglas">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=costa-douglas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=costa-douglas&layout=compact&langs_count=8&theme=dracula"/>
