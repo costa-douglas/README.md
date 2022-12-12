@@ -7,8 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costa-douglas&layout=compact&hide_border=true&title_color=803790&text_color=803790&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?color=803790&bg_color=0d1117&size=35&center=true&vCenter=true&username=costa-douglas)
-
  
 <section>
  <div align="center">
